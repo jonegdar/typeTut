@@ -1,0 +1,20 @@
+typeTut/
+├── src/
+│   ├── app/
+│   ├── controller/
+│   ├── model/
+│   ├── service/
+│   ├── view/
+│   └── util/
+│
+├── resources/
+│   ├── fxml/
+│   ├── text/
+│   ├── audio/
+│   └── icons/
+│
+├── .vscode/
+│   └── launch.json
+│
+├── README.md
+└── .gitignore
